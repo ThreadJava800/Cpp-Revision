@@ -17,6 +17,11 @@ Started to dive into algorithms, [first exercise](https://cses.fi/problemset/tas
 Repeated **binary search**.
 ## 7.cpp
 Repeated **quick sort**, realised in basic sort() function in c++ library of <algorithm>.
- # Doing [this codeforces course](https://codeforces.com/edu/course/2)
- ## Z-functions
- 8.cpp, 9.cpp
+# Doing [this codeforces course](https://codeforces.com/edu/course/2)
+## Z-functions
+## Basic definitions
+ 8.cpp, 9.cpp, 10.cpp, 11.cpp
+## Naive algorithm
+12.cpp, 13.cpp
+## **Effective algorithm**
+14.cpp
