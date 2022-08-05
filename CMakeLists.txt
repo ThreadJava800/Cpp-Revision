@@ -4,4 +4,4 @@ project(Cpp_Revision)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(Cpp_Revision
-        7.cpp 8.cpp)
+        15.cpp)

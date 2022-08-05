@@ -49,8 +49,8 @@ cmake_ninja_workdir = D$:/Projects/Cpp-Revision/cmake-build-debug/
 
 build cmake_object_order_depends_target_Cpp_Revision: phony || CMakeFiles/Cpp_Revision.dir
 
-build CMakeFiles/Cpp_Revision.dir/7.cpp.obj: CXX_COMPILER__Cpp_Revision_Debug D$:/Projects/Cpp-Revision/7.cpp || cmake_object_order_depends_target_Cpp_Revision
-  DEP_FILE = CMakeFiles\Cpp_Revision.dir\7.cpp.obj.d
+build CMakeFiles/Cpp_Revision.dir/15.cpp.obj: CXX_COMPILER__Cpp_Revision_Debug D$:/Projects/Cpp-Revision/15.cpp || cmake_object_order_depends_target_Cpp_Revision
+  DEP_FILE = CMakeFiles\Cpp_Revision.dir\15.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\Cpp_Revision.dir
   OBJECT_FILE_DIR = CMakeFiles\Cpp_Revision.dir
@@ -63,7 +63,7 @@ build CMakeFiles/Cpp_Revision.dir/7.cpp.obj: CXX_COMPILER__Cpp_Revision_Debug D$
 #############################################
 # Link the executable Cpp_Revision.exe
 
-build Cpp_Revision.exe: CXX_EXECUTABLE_LINKER__Cpp_Revision_Debug CMakeFiles/Cpp_Revision.dir/7.cpp.obj
+build Cpp_Revision.exe: CXX_EXECUTABLE_LINKER__Cpp_Revision_Debug CMakeFiles/Cpp_Revision.dir/15.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Cpp_Revision.dir

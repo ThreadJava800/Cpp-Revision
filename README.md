@@ -25,3 +25,6 @@ Repeated **quick sort**, realised in basic sort() function in c++ library of <al
 12.cpp, 13.cpp
 ## **Effective algorithm**
 14.cpp
+## Suffix array
+##Naive algorithm
+15.cpp
